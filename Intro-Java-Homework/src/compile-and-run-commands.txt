@@ -1,0 +1,4 @@
+To compile java file in console:
+1. Go to directory with java file;
+2. Type: javac (file).java + press enter. (file) - is  file we want to compile;
+3. Test (file).class -> type: java (file) + press enter. !! Don't use java (file).class;
